@@ -1,1 +1,2 @@
-console.log("Hablame claro")
+console.log("Hablame claro");
+console.log("Sigueme hablando");
